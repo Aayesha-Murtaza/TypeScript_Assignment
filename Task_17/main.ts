@@ -8,7 +8,7 @@
 • Remove the last two names from your list, so you have an empty list. Print your list to make sure you actually have an empty list at the end of your program.*/ 
 
 
-var myArray2: string[] = ["Grandfather", "Mother", "Father"];
+let myArray2: string[] = ["Grandfather", "Mother", "Father"];
 
 // Loop through the array and print a message to each person
 for (let index = 0; index < myArray2.length; index++) {

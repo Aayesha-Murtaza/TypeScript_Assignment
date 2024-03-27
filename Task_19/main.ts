@@ -1,7 +1,7 @@
 /**Dinner Guests: Working with one of the programs from Exercises 14 through 18, print a message indicating the number of people you are inviting to dinner. */
 
 
-var myArray2: string[] = ["Grandfather", "Mother", "Father"];
+let myArray2: string[] = ["Grandfather", "Mother", "Father"];
 
 // Loop through the array and print a message to each person
 for (let index = 0; index < myArray2.length; index++) {

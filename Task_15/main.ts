@@ -1,7 +1,7 @@
 /**Changing Guest List: You just heard that one of your guests can’t make the dinner, so you need to send out a new set of invitations. You’ll have to think of someone else to invite. */
 
 
-var myArray2: string[] = ["Grandfather", "Mother", "Father"];
+let myArray2: string[] = ["Grandfather", "Mother", "Father"];
 
 // Loop through the array and print a message to each person
 for (let index = 0; index < myArray2.length; index++) {

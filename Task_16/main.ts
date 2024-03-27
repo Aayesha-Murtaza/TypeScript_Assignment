@@ -4,7 +4,7 @@
  * Print a new set of invitation messages, one for each person in your list. */
 
 
-var myArray2: string[] = ["Grandfather", "Mother", "Father"];
+let myArray2: string[] = ["Grandfather", "Mother", "Father"];
 
 // Loop through the array and print a message to each person
 for (let index = 0; index < myArray2.length; index++) {
